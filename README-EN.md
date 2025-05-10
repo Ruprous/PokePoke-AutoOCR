@@ -49,9 +49,3 @@ It includes Python scripts designed to help with streaming via OBS and automatic
   Please adjust coordinate settings if using a different resolution.
 - If `poke_auto.py` doesn't capture text correctly, check your Tesseract path and screen scaling.
 
----
-
-## 📜 License
-
-**© 2024 Ruprous**  
-(License not yet defined. Please add a LICENSE file if needed.)
